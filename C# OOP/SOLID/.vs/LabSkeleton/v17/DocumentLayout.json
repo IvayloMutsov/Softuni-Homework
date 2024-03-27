@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|d:\\softuni\\csharp - advanced\\c# oop\\11. solid\\p04.recharge\\isleeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|solutionrelative:p04.recharge\\isleeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|d:\\softuni\\csharp - advanced\\c# oop\\11. solid\\p04.recharge\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|solutionrelative:p04.recharge\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|d:\\softuni\\csharp - advanced\\c# oop\\11. solid\\p04.recharge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|solutionrelative:p04.recharge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|d:\\softuni\\csharp - advanced\\c# oop\\11. solid\\p04.recharge\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|solutionrelative:p04.recharge\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|d:\\softuni\\csharp - advanced\\c# oop\\11. solid\\p04.recharge\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|solutionrelative:p04.recharge\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|d:\\softuni\\csharp - advanced\\c# oop\\11. solid\\p04.recharge\\irechargeable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|solutionrelative:p04.recharge\\irechargeable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P04.Recharge\\Worker.cs",
+              "RelativeDocumentMoniker": "P04.Recharge\\Worker.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P04.Recharge\\Worker.cs",
+              "RelativeToolTip": "P04.Recharge\\Worker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:59:04.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P04.Recharge\\Robot.cs",
+              "RelativeDocumentMoniker": "P04.Recharge\\Robot.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P04.Recharge\\Robot.cs",
+              "RelativeToolTip": "P04.Recharge\\Robot.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:59:05.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P04.Recharge\\Program.cs",
+              "RelativeDocumentMoniker": "P04.Recharge\\Program.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P04.Recharge\\Program.cs",
+              "RelativeToolTip": "P04.Recharge\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:59:05.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ISleeper.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P04.Recharge\\ISleeper.cs",
+              "RelativeDocumentMoniker": "P04.Recharge\\ISleeper.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P04.Recharge\\ISleeper.cs",
+              "RelativeToolTip": "P04.Recharge\\ISleeper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:59:05.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRechargeable.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P04.Recharge\\IRechargeable.cs",
+              "RelativeDocumentMoniker": "P04.Recharge\\IRechargeable.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P04.Recharge\\IRechargeable.cs",
+              "RelativeToolTip": "P04.Recharge\\IRechargeable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:59:05.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P04.Recharge\\Employee.cs",
+              "RelativeDocumentMoniker": "P04.Recharge\\Employee.cs",
+              "ToolTip": "D:\\SoftUni\\CSharp - Advanced\\C# OOP\\11. SOLID\\P04.Recharge\\Employee.cs",
+              "RelativeToolTip": "P04.Recharge\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:59:05.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
